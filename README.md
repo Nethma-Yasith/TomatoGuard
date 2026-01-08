@@ -23,7 +23,7 @@
 * **✅ Task Manager:** Daily "To-Do" list for farmers based on the crop growth stage.
 
 ---
-[![Watch the Demo](https://img.youtube.com/vi/HfEMPTRzcQA/0.jpg)](https://www.youtube.com/watch?v=HfEMPTRzcQA)
+[![Watch the Demo](https://img.youtube.com/vi/L5mK0AMRTWA/0.jpg)](https://www.youtube.com/watch?v=L5mK0AMRTWA)
 ---
 
 ## 🎨 App Screenshots
