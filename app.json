@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "CardamomApp",
-    "slug": "CardamomApp",
+    "name": "TomatoGuard",
+    "slug": "tomatoguard",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -20,10 +20,20 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "edgeToEdgeEnabled": true
+      "edgeToEdgeEnabled": true,
+      "package": "com.anonymous.CardamomApp"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      "react-native-fast-tflite",
+      "expo-asset"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "a3f2f898-8616-4b1d-804b-f3dc55e82043"
+      }
     }
   }
 }
