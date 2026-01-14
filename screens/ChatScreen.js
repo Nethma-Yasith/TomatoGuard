@@ -7,7 +7,7 @@ import { collection, addDoc, serverTimestamp } from "firebase/firestore";
 import { db, auth } from '../firebaseConfig'; 
 
 // ⚠️ Ensure your API Key is valid
-const API_KEY = "AIzaSyDu3EupaXXj-wuLAFWnlMQ-8DuMbCcl4bo"; 
+const API_KEY = " "; 
 
 export default function ChatScreen({ route, navigation }) {
   const { diagnosisData, savedSession } = route.params || {};
