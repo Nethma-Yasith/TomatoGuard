@@ -7,7 +7,7 @@ import ReactNativeAsyncStorage from '@react-native-async-storage/async-storage';
 
 // ඔයාගේ Config එක (මේක වෙනස් කරන්න එපා)
 const firebaseConfig = {
-  apiKey: "AIzaSyDS50F8pVA2KwmPLnJu2SqJ8sXW5icFWzA",
+  apiKey: " ",
   authDomain: "tomatoguard-8eda5.firebaseapp.com",
   projectId: "tomatoguard-8eda5",
   storageBucket: "tomatoguard-8eda5.firebasestorage.app",
